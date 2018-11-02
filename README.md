@@ -1,6 +1,12 @@
+# 关于这个仓库
+
+非官方维护的 腾讯 AI 更新列表，已邀请 GitHub 上发布过 SDK 的开发者加入这个仓库。
+
 # 社区 SDK 列表
 
 * https://github.com/justmd5/tencent-ai
+
+* http://taip.mydoc.io/?t=307518
 
 # 腾讯 AI 更新列表
 
