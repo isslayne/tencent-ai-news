@@ -8,6 +8,8 @@
 
 * http://taip.mydoc.io/?t=307518
 
+* https://github.com/reezon/tencent-ai-nodejs-sdk
+
 ## 腾讯 AI 更新列表
 
 ### 2018-11-30
